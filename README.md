@@ -8,7 +8,7 @@ Easily add tasks through a user-friendly input box.
 2.**Persistent Storage:**
 Saves tasks in localStorage, ensuring they remain available even after refreshing the page.
 
-3.** Mark as Done:**
+3.**Mark as Done:**
 Tasks can be marked as "done" with a checkbox, updating their status dynamically.
 
 4.**Visual Distinction:**
