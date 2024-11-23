@@ -11,10 +11,10 @@ Saves tasks in localStorage, ensuring they remain available even after refreshin
 3.** Mark as Done:**
 Tasks can be marked as "done" with a checkbox, updating their status dynamically.
 
-4. **Visual Distinction:**
+4.**Visual Distinction:**
 Completed tasks are highlighted with a red color and strikethrough for easy differentiation.
 
-5. **Delete Tasks:**
+5.**Delete Tasks:**
 Remove tasks using a delete button, with real-time updates.
 
 6.**Dynamic Updates:**
